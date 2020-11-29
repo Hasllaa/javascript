@@ -1,0 +1,2 @@
+# javascript
+studing javascript alone
