@@ -3,7 +3,7 @@
 
 **map에서 배열 만들기**
 
-```
+```javascript
 const m = new Map([[1, 2], [2, 4], [4, 8]]);
 Array.from(m);
 // [[1, 2], [2, 4], [4, 8]]
