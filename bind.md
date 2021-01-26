@@ -10,7 +10,7 @@ sample.getX(); // 7
 var sample2 = sample.getX;
 sample2(); // 5
 
-var sample3 = sample2.bind(module);
+var sample3 = sample2.bind(sample);
 sample3(); // 7
 
 ```
