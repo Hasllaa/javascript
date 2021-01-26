@@ -14,4 +14,4 @@ var sample3 = sample2.bind(sample);
 sample3(); // 7
 
 ```
-전역 변수 x와 module의 속성 x를 혼동하지 않도록 해야한다.
+전역 변수 x와 sample 속성 x를 혼동하지 않도록 해야한다.
